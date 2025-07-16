@@ -17,7 +17,7 @@ Datele au fost structurate conform regulilor de normalizare (până la forma nor
 
 - CE_2_203_Radoi_GabrielaBianca_CabinetVeterinar.sql – scriptul SQL complet pentru crearea bazei de date
 - CE_2_203_Radoi_GabrielaBianca_CabinetVeterinar.mwb – modelul vizual realizat în MySQL Workbench
-- 
+ 
 ### Relațiile dintre entități
 
 - Un **proprietar** poate deține mai mulți **pacienți**
